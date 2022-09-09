@@ -32,6 +32,19 @@ I pulled all these files out of the Windows installer zip on srb2.org.
 
 I'm not convinced the port can actually create files on-console right now (works on emulator) so you may also need a valid `config.cfg` and `srb2sav1.ssg` to get it running on hardware. Despite my best efforts, reading in these large files on-console is *slow*, so break out `udplogserver`, get some tea, and settle in.
 
+## Wii Port
+In this repository will be available the port of SRB2 for Wii, which is based on version 2.0.6 of the PC version and compiled with the libogc library. 
+Unfortunately I couldn't find the source code of the Wii port and the page where the source code was hosted is down, so if a netizen can send a link where the source code can be downloaded, he can leave it for me in the section of issue, I would really appreciate it.
+
+Since with the source code it could be adapted to the new version of SRB2 so that Wii and Wii U users can enjoy it.
+
+If you are looking for more information about the Wii port, I leave the following link: https://wiibrew.org/wiki/User:Callum/Sonic_Robo_Blast_2
+
+## Switch Port
+
+In the release section, the source code and executable of the SRB2 port for Nintendo Switch will be uploaded.
+With this, it may be possible to solve problems that exist in the Wii U port.
+
 ## Original readme
 
 [![Build status](https://ci.appveyor.com/api/projects/status/399d4hcw9yy7hg2y?svg=true)](https://ci.appveyor.com/project/STJr/srb2)
